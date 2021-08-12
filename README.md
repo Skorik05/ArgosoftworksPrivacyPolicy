@@ -11,10 +11,9 @@ This personal data processing policy has been drawn up in accordance with the re
 2.5. Depersonalization of personal data - actions, as a result of which it is impossible to determine, without the use of additional information, the belonging of personal data to a specific User or other subject of personal data. 
 2.6. Processing of personal data - any action (operation) or a set of actions (operations) performed using automation tools or without using such tools with personal data, including collection, recording, systematization, accumulation, storage, clarification (update, change), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data. 
 2.7. Operator - a state body, a municipal body, a legal entity or an individual, independently or jointly with other persons organizing and (or) processing personal data, as well as determining the purposes of processing personal data, the composition of personal data to be processed, actions (operations) performed with personal data. 
-2.8. Personal data - any information relating directly or indirectly to a specific or identifiable User of the website https://crypt-mine.com/.Personal data permitted by the subject of personal data for dissemination - personal data, access of an unlimited number of persons to which is provided by the subject of personal data by giving consent to the processing of personal data permitted by the subject of personal data for dissemination in the manner prescribed by the Law on Personal Data (hereinafter - personal data permitted for distribution). 
+2.8. Personal data - any information relating directly or indirectly to a specific or identifiable User of the website https://crypt-mine.com/. Personal data permitted by the subject of personal data for dissemination - personal data, access of an unlimited number of persons to which is provided by the subject of personal data by giving consent to the processing of personal data permitted by the subject of personal data for dissemination in the manner prescribed by the Law on Personal Data (hereinafter - personal data permitted for distribution). 
 2.10. User - any visitor to the website https://crypt-mine.com/. Provision of personal data - actions aimed at disclosing personal data to a certain person or a certain circle of persons. 
 2.12. Dissemination of personal data - any actions aimed at disclosing personal data to an indefinite circle of persons (transfer of personal data) or at acquaintance with the personal data of an unlimited number of persons, including the disclosure of personal data in the media, posting on information and telecommunication networks or providing access to personal data in any other way.
-Arti Volfovsky, [07.29.21 06:04] 
 2.13. Cross-border transfer of personal data - transfer of personal data to the territory of a foreign state to the authority of a foreign state, to a foreign individual or foreign legal entity. 
 2.14. Destruction of personal data - any actions as a result of which personal data are destroyed irrevocably with the impossibility of further restoring the content of personal data in the personal data information system and (or) material carriers of personal data are destroyed. 
 3. Basic rights and obligations of the Operator 
@@ -52,9 +51,7 @@ Arti Volfovsky, [07.29.21 06:04]
  - to appeal to the authorized body for the protection of the rights of subjects of personal data or in court the illegal actions or inaction of the Operator when processing his personal data; 
  - to exercise other rights provided for by the legislation of the Russian Federation.
 4.2. Subjects of personal data are obliged to: 
- - provide the Operator with reliable data about themselves; 
- 
-Arti Volfovsky, [07/29/21 06:04] 
+ - provide the Operator with reliable data about themselves;  
  - inform the Operator about the clarification ( updating, changing) their personal data. 
 4.3. Persons who have transferred false information about themselves to the Operator, or information about another subject of personal data without the consent of the latter, are liable in accordance with the legislation of the Russian Federation. 
 5. The Operator can process the following personal data of the User 
@@ -78,7 +75,6 @@ Arti Volfovsky, [07/29/21 06:04]
 6.4. Only personal data that meet the purposes of their processing is subject to processing. 
 6.5. The content and volume of the processed personal data correspond to the stated purposes of the processing. The redundancy of the processed personal data in relation to the stated purposes of their processing is not allowed. 
 6.6. When processing personal data, the accuracy of personal data is ensured, their sufficiency, and, if necessary, relevance in relation to the purposes of processing personal data. The operator takes the necessary measures and / or ensures their adoption to remove or clarify incomplete or inaccurate data.
-Arti Volfovsky, [07.29.21 06:04] 
 6.7. The storage of personal data is carried out in a form that makes it possible to determine the subject of personal data, no longer than the purpose of processing personal data requires, if the storage period for personal data is not established by federal law, an agreement to which the subject of personal data is a party, beneficiary or guarantor. The processed personal data is destroyed or depersonalized upon achievement of the processing goals or in case of loss of the need to achieve these goals, unless otherwise provided by federal law. 
 7. Purposes of personal data processing 
 7.1. The purpose of processing the User's personal data: 
@@ -100,7 +96,6 @@ Arti Volfovsky, [07.29.21 06:04]
 9.3. The processing of personal data is necessary for the administration of justice, the execution of a judicial act, an act of another body or official, subject to execution in accordance with the legislation of the Russian Federation on enforcement proceedings. 
 9.4.The processing of personal data is necessary for the performance of an agreement, to which the subject of personal data is either a party or a beneficiary or a guarantor, as well as for concluding an agreement on the initiative of the subject of personal data or an agreement under which the subject of personal data will be a beneficiary or a guarantor. 
 9.5. The processing of personal data is necessary to exercise the rights and legitimate interests of the operator or third parties, or to achieve socially significant goals, provided that this does not violate the rights and freedoms of the subject of personal data.
-Arti Volfovsky, [07.29.21 06:04] 
 9.6. The processing of personal data is carried out, access to an unlimited number of persons to which is provided by the subject of personal data or at his request (hereinafter - publicly available personal data). 
 9.7. Processing of personal data subject to publication or mandatory disclosure in accordance with federal law. 
 10. The procedure for collecting, storing, transferring and other types of processing of personal data 
@@ -116,7 +111,6 @@ The user can at any time withdraw his consent to the processing of personal data
 10.9. A condition for terminating the processing of personal data may be the achievement of the purposes of processing personal data, the expiration of the consent of the subject of personal data or withdrawal of consent by the subject of personal data, as well as the identification of illegal processing of personal data.
 11. List of actions performed by the Operator with the received personal data 
 11.1. The operator collects, records, systematizes, accumulates, stores, clarifies (updates, changes), retrieves, uses, transfers (distribution, provision, access), depersonalization, blocking, deletion and destruction of personal data. 
- {{1 }} Arti Volfovsky, [07.29.21 06:04] 
 11.2. The operator carries out automated processing of personal data with the receipt and / or transmission of the information received via information and telecommunication networks or without it. 
 12. Cross-border transfer of personal data 
 12.1. Before starting the cross-border transfer of personal data, the operator must make sure that the foreign state, to whose territory it is supposed to transfer personal data, provides reliable protection of the rights of subjects of personal data. 
